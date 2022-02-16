@@ -6,6 +6,12 @@ Progress:
 
 Thoughts:
 -->
+### Day 3: February 16, 2022 
+
+Progress: freeCodeCamp's Basic JavaScript Course; Finished 100% including assignments. (Portions covered today: loops, objects, recursion)
+
+Thoughts: Spent much time on recursion, should spent a little more to make it thorough.
+
 ### Day 2: February 15, 2022 
 
 Progress: freeCodeCamp's #JavaScript Course; Finished 66% including assignments. (Portions covered today: conditions, function, scopes)

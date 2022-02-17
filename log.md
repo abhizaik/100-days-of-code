@@ -6,6 +6,12 @@ Progress:
 
 Thoughts:
 -->
+### Day 4: February 14, 2022 
+
+Progress: Watched tutorial and implemented Promise in JavaScript. (see code [here](https://github.com/incogGod/100-days-of-code/blob/302ee21dfdbb0f92781ed10603078839c547040e/misc/promise.js))
+
+Thoughts: Promise makes callbacks easy
+
 ### Day 3: February 16, 2022 
 
 Progress: freeCodeCamp's Basic JavaScript Course; Finished 100% including assignments. (Portions covered today: loops, objects, recursion)

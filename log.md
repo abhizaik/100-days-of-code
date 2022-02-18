@@ -6,7 +6,13 @@ Progress:
 
 Thoughts:
 -->
-### Day 4: February 14, 2022 
+### Day 5: February 18, 2022 
+
+Progress: Learned and implemented how async_await works in JavaScript 
+
+Thoughts: aync await allows to run the remaining code while doing a heavier task in the background. ([implementation](https://github.com/incogGod/100-days-of-code/blob/e1d38d20fbe44a8fc5e7e891bd8afc1a8b67e5ad/misc/async-await.js))
+
+### Day 4: February 17, 2022 
 
 Progress: Watched tutorial and implemented Promise in JavaScript. (see code [here](https://github.com/incogGod/100-days-of-code/blob/302ee21dfdbb0f92781ed10603078839c547040e/misc/promise.js))
 

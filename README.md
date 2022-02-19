@@ -1,4 +1,4 @@
 # 100 Days of Code
-Repo to update learnings, my progress and codes done in #100daysofcode \
-<br><br>
-Check daily my progress [HERE](https://github.com/incogGod/100-days-of-code/blob/main/log.md).
+Repo to update my learnings, progress and codes done while doing #100DaysOfCode \
+<br>
+Check my daily progress [HERE](https://github.com/incogGod/100-days-of-code/blob/main/log.md)

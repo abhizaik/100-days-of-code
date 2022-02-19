@@ -6,6 +6,13 @@ Progress:
 
 Thoughts:
 -->
+
+### Day 6: February 19, 2022 
+
+Progress: Learned and implemented Binary Search Algorithm in JavaScript using recursive and iterative methods. ([implementation](https://github.com/incogGod/100-days-of-code/blob/176bec0205eeedd45adbc55e6376f75fda53db29/dsa-implementation/binary-search.js))
+
+Thoughts: I think this is the second easiest algo out there, Linear Search is still the first ! :P
+
 ### Day 5: February 18, 2022 
 
 Progress: Learned and implemented how async_await works in JavaScript 

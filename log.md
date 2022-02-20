@@ -26,7 +26,7 @@ Thoughts: aync await allows to run the remaining code while doing a heavier task
 
 ### Day 4: February 17, 2022 
 
-Progress: Watched tutorial and implemented Promise in JavaScript. (see code [here](https://github.com/incogGod/100-days-of-code/blob/302ee21dfdbb0f92781ed10603078839c547040e/misc/promise.js))
+Progress: Watched tutorial and implemented Promise in JavaScript. ([implementation](https://github.com/incogGod/100-days-of-code/blob/302ee21dfdbb0f92781ed10603078839c547040e/misc/promise.js))
 
 Thoughts: Promise makes callbacks easy
 

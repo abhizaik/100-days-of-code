@@ -6,6 +6,11 @@ Progress:
 
 Thoughts:
 -->
+### Day 7: February 20, 2022 
+
+Progress: Learned and implemented Bubble Sort Algorithm in JavaScript. ([implementation](https://github.com/incogGod/100-days-of-code/blob/7dc2164d38f9b712d7dcecf66709110723ad0c69/dsa-implementation/bubble-sort.js))
+
+Thoughts: The way bubble sort work is simple. It just check the adjacent elements and swap them if they are not in order till the array become fully sorted.
 
 ### Day 6: February 19, 2022 
 

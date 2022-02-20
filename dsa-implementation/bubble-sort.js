@@ -1,4 +1,4 @@
-// Buuble Sort Implementation 
+// Bubble Sort Implementation 
 // Author : @incogGod
 
 function bubbleSort(array){

@@ -6,6 +6,12 @@ Progress:
 
 Thoughts:
 -->
+### Day 8: February 21, 2022 
+
+Progress: Learned and implemented Selection Sort Algorithm in JavaScript 
+
+Thoughts: It iterates through the array keeping track of the smallest number and at end of a full array iteration, the iᵗʰ element is swapped with the smallest element. ([implementation](https://github.com/incogGod/100-days-of-code/blob/f870cf1dddf25fc7eb5e7ac92f4e1745bf510600/dsa-implementation/selection-sort.js))
+
 ### Day 7: February 20, 2022 
 
 Progress: Learned and implemented Bubble Sort Algorithm in JavaScript. ([implementation](https://github.com/incogGod/100-days-of-code/blob/7dc2164d38f9b712d7dcecf66709110723ad0c69/dsa-implementation/bubble-sort.js))

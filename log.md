@@ -6,6 +6,12 @@ Progress:
 
 Thoughts:
 -->
+### Day 9: February 24, 2022 
+
+Progress: Learned and implemented Insertion Sort Algorithm in JavaScript 
+
+Thoughts: In simple words it works like sorting an unsorted deck of cards. i.e. Pick a card(element) and put it in the correct relative position ([implementation](https://github.com/incogGod/100-days-of-code/blob/b9f890ef9b3ebe4208da2c56040d911006e27f6e/dsa-implementation/insertion-sort.js))
+
 ### Day 8: February 21, 2022 
 
 Progress: Learned and implemented Selection Sort Algorithm in JavaScript 

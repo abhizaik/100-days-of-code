@@ -6,6 +6,13 @@ Progress:
 
 Thoughts:
 -->
+### Day 10: February 25, 2022 
+
+Progress: Learned and implemented Stack and Queue
+
+Thoughts: How to make your chill time bit more productive? Will update the code implementation in thread once I reach home. Happy weekend guys ! 😉🍻 <br>
+([implementation : stack,](https://github.com/incogGod/100-days-of-code/blob/580a972ba27b308361412f71fe4b9e7f951032bd/dsa-implementation/stack.js))
+([ implementation : queue](https://github.com/incogGod/100-days-of-code/blob/580a972ba27b308361412f71fe4b9e7f951032bd/dsa-implementation/queue.js))
 ### Day 9: February 24, 2022 
 
 Progress: Learned and implemented Insertion Sort Algorithm in JavaScript 

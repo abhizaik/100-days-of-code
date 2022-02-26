@@ -6,6 +6,11 @@ Progress:
 
 Thoughts:
 -->
+### Day 11: February 26, 2022 
+
+Progress: Learned about UNION in SQL 
+
+Thoughts:We can use UNION to group data of column(s) from single or multiple tables distinctly or including duplicates (by using UNION ALL). Number of cols and data type of them should be the same.
 ### Day 10: February 25, 2022 
 
 Progress: Learned and implemented Stack and Queue

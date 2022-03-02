@@ -11,7 +11,7 @@ Thoughts:
 Progress: Learned about basic HTML 
 
 Thoughts: Brushed up basic HTML and made a funny personal website for myself. I know it looks like from 1980s but yeah. Better to code it rather than just reading right ? 😇
-([implementation : stack](https://github.com/incogGod/100-days-of-code/blob/9c18435ec4dfbe055d0421dd574d8308437605a6/web-development/html-personal-site/index.html))
+([implementation](https://github.com/incogGod/100-days-of-code/blob/9c18435ec4dfbe055d0421dd574d8308437605a6/web-development/html-personal-site/index.html))
 ### Day 12: February 28, 2022 
 
 Progress: Learned about GROUP BY, ORDER BY in SQL 

@@ -6,6 +6,12 @@ Progress:
 
 Thoughts:
 -->
+### Day 14: March 3, 2022 
+
+Progress: Learned intermediate level HTML 
+
+Thoughts: Haha yeah my funny personal website is now live, check it out at http://incoggod.github.io 😂Learned about tables, forms and have implemented in it. Will add up more as I learn everyday.
+
 ### Day 13: March 2, 2022 
 
 Progress: Learned about basic HTML 

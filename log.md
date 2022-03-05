@@ -6,6 +6,11 @@ Progress:
 
 Thoughts:
 -->
+### Day 15: March 5, 2022 
+
+Progress: Learned basic level #CSS. Give some flesh to your skeleton! 
+
+Thoughts: Learned about inline, internal, external CSS, class and id & context of using them. Implemented external CSS to my website. 
 ### Day 14: March 3, 2022 
 
 Progress: Learned intermediate level HTML 

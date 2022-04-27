@@ -6,6 +6,11 @@ Progress:
 
 Thoughts:
 -->
+### Day 1: March 2, 2022 
+
+Progress: Learned basic syntax of C++ like variables, datatypes, operators etc.
+
+Thoughts: Starting it in a low pace so that I can run longer without getting tired. Syntax of CPP is little confusing than py. But I guess it'll be okay in a week.
 ### Day 15: March 5, 2022 
 
 Progress: Learned basic level #CSS. Give some flesh to your skeleton! 

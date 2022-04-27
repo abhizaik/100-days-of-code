@@ -1,12 +1,12 @@
 [//]: # (Copy this template)
 <!---
-### Day 1: March 2, 2022 
+### Day 16: April 27, 2022
 
 Progress: 
 
 Thoughts:
 -->
-### Day 1: March 2, 2022 
+### Day 16: April 27, 2022 
 
 Progress: Learned basic syntax of C++ like variables, datatypes, operators etc.
 

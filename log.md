@@ -2,15 +2,15 @@
 <!---
 ### Day 16: April 27, 2022
 
-Progress: Learned basic syntax of C++ and executed the "Hello World!" program on my machine.
+Progress: 
 
-Thoughts:  I still believe it'll be okay in a week
+Thoughts:  
 -->
 ### Day 17: April 28, 2022
 
-Progress: 
+Progress: Learned basic syntax of C++ and executed the "Hello World!" program on my machine.
 
-Thoughts:
+Thoughts: I still believe it'll be okay in a week
 ### Day 16: April 27, 2022 
 
 Progress: Learned basic syntax of C++ like variables, datatypes, operators etc.
